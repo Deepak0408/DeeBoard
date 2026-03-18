@@ -10,6 +10,9 @@ The LEDs show status or activity
 
 The goal was to create a small, efficient tool that speeds up repetitive tasks.
 Instead of remembering many shortcuts, everything is placed on dedicated keys
+<img width="893" height="869" alt="image" src="https://github.com/user-attachments/assets/3df1cd2d-77a6-422e-a01d-52e0826c00b5" />
+<img width="826" height="953" alt="image" src="https://github.com/user-attachments/assets/9e4ce18a-73aa-4e63-a8b8-795eb2fdc55c" />
+
 
 <img width="852" height="437" alt="Screenshot 2026-03-10 223859" src="https://github.com/user-attachments/assets/e7ff8bd3-4249-4b92-9033-9eb4e7b72c64" />
 <img width="1124" height="679" alt="Screenshot 2026-03-10 223038" src="https://github.com/user-attachments/assets/d1843b13-bc98-4068-9bd6-70c685264001" />
