@@ -1,15 +1,12 @@
-A compact custom hackpad with 15 mechanical keys and a rotary encoder..
-designed for quick shortcuts and smooth control. 
-It also includes two LED lights 
-The clean layout makes it easy to use for everyday tasks.
+Thia is a custom macropad which have 15 keys and one encoder
+made for easy workflow 
+it contain 2 small LED
 
+Each key have its own function to perform
+the encoder helps to adjust the valume accoring to use
 
-Each key is programmed to Do a specific shortcut command on the computer.
-The rotary encoder can be used for actions like adjusting volume.
-The LEDs show status or activity
+Made this project for speedup my task
 
-The goal was to create a small, efficient tool that speeds up repetitive tasks.
-Instead of remembering many shortcuts, everything is placed on dedicated keys
 <img width="893" height="869" alt="image" src="https://github.com/user-attachments/assets/3df1cd2d-77a6-422e-a01d-52e0826c00b5" />
 <img width="826" height="953" alt="image" src="https://github.com/user-attachments/assets/9e4ce18a-73aa-4e63-a8b8-795eb2fdc55c" />
 
