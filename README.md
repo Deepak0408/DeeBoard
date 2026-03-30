@@ -7,6 +7,30 @@ the encoder helps to adjust the valume accoring to use
 
 Made this project for speedup my task
 
+
+## Build Journal
+
+### Day 1
+
+I started this project with the idea of building a small macropad for shortcuts. At this stage, I did not start building anything physically. I focused on understanding how macropads work and what components are required. I looked at different designs online and tried to get a basic idea.
+
+### Day 2
+
+I worked on selecting the components for the project. I researched different microcontrollers and decided on using the XIAO RP2040. I also looked into switches, diodes, and rotary encoder options. This step took time because I wanted to make sure everything would be compatible.
+
+### Day 3
+
+I started planning the wiring and layout. I tried to understand how the switches will be connected with diodes and how the microcontroller will handle inputs. I also looked at some wiring diagrams for reference. It was a bit confusing at first but slowly made sense.
+
+### Day 4
+
+I explored the coding side of the project. I checked some example firmware and libraries that are used for macropads. I did not write full code yet, but I got an idea of how key mapping and input handling works.
+
+### Day 5
+
+I finalized the component list and prepared the bill of materials (BOM). I also estimated the total cost of the project. At this point, I have a clear plan of how the project will be built, but I have not assembled it yet.
+
+
 <img width="893" height="869" alt="image" src="https://github.com/user-attachments/assets/3df1cd2d-77a6-422e-a01d-52e0826c00b5" />
 <img width="826" height="953" alt="image" src="https://github.com/user-attachments/assets/9e4ce18a-73aa-4e63-a8b8-795eb2fdc55c" />
 
@@ -18,21 +42,17 @@ Made this project for speedup my task
 <img width="839" height="623" alt="Screenshot 2026-03-10 223113" src="https://github.com/user-attachments/assets/539d500e-f8d9-4a46-928b-3edfd37225a5" />
 <img width="682" height="429" alt="image" src="https://github.com/user-attachments/assets/548a71b6-c8ad-4e3e-b639-a62048b0e1e6" />
 
-Bill of Materials (BOM)---------------------------------------
 
-1x XIAO RP2040 controller 
 
-15x Mx-switches 
+## Bill of Materials (BOM)
 
-16x 1N4148 diodes 
+| Component                  | Purpose            | Quantity | Price (USD) | Source |
+|---------------------------|-------------------|----------|------------|--------|
+| SK6812 Mini RGB LED       | LED lighting      | 2        | 9.18       | Robu   |
+| Rotary Encoder (with switch) | Volume control | 1        | 2.24       | Amazon |
+| 1N4148 Diodes             | Signal control    | 1        | 3.08       | Amazon |
+| MX Mechanical Switches    | Key input         | 1        | 18.14      | Amazon |
+| XIAO RP2040 Controller    | Main controller   | 1        | 30.94      | Amazon |
 
-1x Rotary encoder with switch
-
-2x SK6812MINI RGB LED 
-
-1x Pcb 
-
-1X 3d printed case 
-
-4x Screws 
+**Total Cost: $63.58**
 
