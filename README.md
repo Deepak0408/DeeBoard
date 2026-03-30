@@ -12,23 +12,31 @@ Made this project for speedup my task
 
 ### Day 1
 
-I started this project with the idea of building a small macropad for shortcuts. At this stage, I did not start building anything physically. I focused on understanding how macropads work and what components are required. I looked at different designs online and tried to get a basic idea.
+I started this project with the idea of building a small macropad for shortcuts. At first I was not fully sure about the exact design, but I had a rough idea. I spent time looking at other macropad builds to understand how they work and what components are needed.
 
 ### Day 2
 
-I worked on selecting the components for the project. I researched different microcontrollers and decided on using the XIAO RP2040. I also looked into switches, diodes, and rotary encoder options. This step took time because I wanted to make sure everything would be compatible.
+I started working on the circuit design. I tried to understand how switches and diodes are connected in a. It was a bit confusing in the beginning and I had to check multiple references. After some time I was able to make a basic schematic.
 
 ### Day 3
 
-I started planning the wiring and layout. I tried to understand how the switches will be connected with diodes and how the microcontroller will handle inputs. I also looked at some wiring diagrams for reference. It was a bit confusing at first but slowly made sense.
+I moved to PCB design. This doing proper PCB, so it took longer than expected. Placing components and routing tracks was not easy and I had to redo some parts because spacing was not correct.
 
 ### Day 4
 
-I explored the coding side of the project. I checked some example firmware and libraries that are used for macropads. I did not write full code yet, but I got an idea of how key mapping and input handling works.
+I worked on the CAD design for the case. I wanted the macropad to look clean and compact. The first design was not fitting properly, so I had to adjust dimensions and rework it. After few tries I got a better layout.
 
 ### Day 5
 
-I finalized the component list and prepared the bill of materials (BOM). I also estimated the total cost of the project. At this point, I have a clear plan of how the project will be built, but I have not assembled it yet.
+I started working on the firmware. I used some reference code and tried to modify it according to my design. At first nothing worked properly and it was a bit frustrating. Understanding key mapping and inputs took time.
+
+### Day 6
+
+Debugging took most of the time today. Some keys were not responding correctly and I thought it was hardware issue, but later I found mistakes in the code. After fixing small issues, things started working.
+
+### Day 7
+
+I tested the full setup and checked all inputs. The rotary encoder and LEDs were also tested. There were still small issues but overall it was working as expected.
 
 
 <img width="893" height="869" alt="image" src="https://github.com/user-attachments/assets/3df1cd2d-77a6-422e-a01d-52e0826c00b5" />
@@ -55,4 +63,10 @@ I finalized the component list and prepared the bill of materials (BOM). I also 
 | XIAO RP2040 Controller    | Main controller   | 1        | 30.94      | Amazon |
 
 **Total Cost: $63.58**
+
+
+
+### Final Thoughts
+
+This project was little difficult than I expected, especially PCB design . I learned a lot about circuit design, CAD modeling, and firmware development. There were many mistakes during the process, but fixing them helped me understand things better. If I do this again, I would plan the design more carefully from the start.
 
