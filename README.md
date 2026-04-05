@@ -56,13 +56,13 @@ I tested the full setup and checked all inputs. The rotary encoder and LEDs were
 
 | Component                  | Purpose            | Quantity | Price (USD) | Source |
 |---------------------------|-------------------|----------|------------|--------|
-| SK6812 Mini RGB LED       | LED lighting      | 2        | 9.18       | Robu   |
-| Rotary Encoder (with switch) | Volume control | 1        | 2.24       | Amazon |
+| SK6812 Mini RGB LED       | LED lighting      | 2        | 1.18       | Robu   |
+| Rotary Encoder (with switch) | Volume control | 1        | 2.67      | Amazon |
 | 1N4148 Diodes             | Signal control    | 1        | 3.08       | Amazon |
 | MX Mechanical Switches    | Key input         | 1        | 18.14      | Amazon |
-| XIAO RP2040 Controller    | Main controller   | 1        | 30.94      | Amazon |
+| XIAO RP2040 Controller    | Main controller   | 1        | 20.23      | Amazon |
 
-**Total Cost: $63.58**
+**Total Cost: $45.33**
 
 
 
