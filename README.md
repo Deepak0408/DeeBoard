@@ -60,9 +60,9 @@ I tested the full setup and checked all inputs. The rotary encoder and LEDs were
 | Rotary Encoder (with switch) | Volume control | 1        | 2.67      | Amazon |
 | 1N4148 Diodes             | Signal control    | 1        | 3.08       | Amazon |
 | MX Mechanical Switches    | Key input         | 1        | 18.14      | Amazon |
-| XIAO RP2040 Controller    | Main controller   | 1        | 20.23      | Amazon |
+| XIAO RP2040 Controller    | Main controller   | 1        | 12     | Amazon |
 
-**Total Cost: $45.33**
+**Total Cost: $37.10**
 
 
 
